@@ -1,0 +1,32 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Payment Entry Reference",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2021-11-17 09:39:48.524873",
+   "default_value": null,
+   "doc_type": "Payment Entry Reference",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "exchange_rate",
+   "idx": 0,
+   "modified": "2021-11-17 09:39:48.524873",
+   "modified_by": "Administrator",
+   "name": "Payment Entry Reference-exchange_rate-precision",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "precision",
+   "property_type": "Select",
+   "row_name": null,
+   "value": "9"
+  }
+ ],
+ "sync_on_migrate": 1
+}
