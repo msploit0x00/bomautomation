@@ -21,21 +21,38 @@ bomautomation/bomautomation/custom/bomitmessalesorder.json
 bomautomation/bomautomation/custom/item.json
 bomautomation/bomautomation/custom/item_barcode.json
 bomautomation/bomautomation/custom/item_default.json
+bomautomation/bomautomation/custom/journal_entry.json
 bomautomation/bomautomation/custom/journal_entry_account.json
+bomautomation/bomautomation/custom/payment_entry.json
+bomautomation/bomautomation/custom/payment_entry_deduction.json
+bomautomation/bomautomation/custom/payment_entry_reference.json
+bomautomation/bomautomation/custom/payment_schedule.json
 bomautomation/bomautomation/custom/production_plan.json
 bomautomation/bomautomation/custom/production_plan_item.json
 bomautomation/bomautomation/custom/production_plan_sales_order.json
+bomautomation/bomautomation/custom/purchase_invoice.json
+bomautomation/bomautomation/custom/purchase_invoice_advance.json
+bomautomation/bomautomation/custom/purchase_invoice_item.json
+bomautomation/bomautomation/custom/purchase_taxes_and_charges.json
 bomautomation/bomautomation/custom/sales_order.json
 bomautomation/bomautomation/custom/sales_order_item.json
 bomautomation/bomautomation/custom/sales_taxes_and_charges.json
+bomautomation/bomautomation/custom/stock_entry.json
+bomautomation/bomautomation/custom/stock_entry_detail.json
+bomautomation/bomautomation/custom/work_order.json
 bomautomation/bomautomation/custom/work_order_item.json
+bomautomation/bomautomation/custom/work_order_operation.json
 bomautomation/bomautomation/doctype/__init__.py
+bomautomation/bomautomation/doctype (copy)/__init__.py
+bomautomation/bomautomation/doctype (copy)/bomitmessalesorder/__init__.py
+bomautomation/bomautomation/doctype (copy)/bomitmessalesorder/bomitmessalesorder.json
+bomautomation/bomautomation/doctype (copy)/bomitmessalesorder/bomitmessalesorder.py
 bomautomation/bomautomation/doctype/bomitmessalesorder/__init__.py
 bomautomation/bomautomation/doctype/bomitmessalesorder/bomitmessalesorder.json
 bomautomation/bomautomation/doctype/bomitmessalesorder/bomitmessalesorder.py
 bomautomation/config/__init__.py
 bomautomation/config/desktop.py
 bomautomation/config/docs.py
-bomautomation/fixtures/custom_script.json
+bomautomation/fixtures__/custom_script.json
 bomautomation/templates/__init__.py
 bomautomation/templates/pages/__init__.py
